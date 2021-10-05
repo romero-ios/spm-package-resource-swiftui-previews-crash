@@ -8,5 +8,5 @@
 import UIKit
 
 public enum Images {
-    public static let myImage = UIImage(named: "MyImage", in: .module, with: nil)!
+    public static let myImage = UIImage(named: "MyImage", in: .fixedModule, with: nil)!
 }
